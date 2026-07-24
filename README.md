@@ -78,3 +78,19 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 * (More coming soon...)
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
