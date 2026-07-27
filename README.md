@@ -93,4 +93,16 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
