@@ -98,6 +98,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
@@ -119,5 +120,10 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
