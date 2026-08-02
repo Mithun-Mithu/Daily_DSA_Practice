@@ -89,6 +89,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0002-add-two-numbers) |
+| [0877-stone-game](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -100,6 +101,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | [0049-group-anagrams](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -122,8 +124,13 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0053-maximum-subarray) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
