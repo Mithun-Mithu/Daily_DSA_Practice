@@ -89,6 +89,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0877-stone-game) |
 ## Recursion
 |  |
@@ -101,6 +102,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | [0049-group-anagrams](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0877-stone-game) |
 ## String
 |  |
@@ -115,10 +117,12 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,4 +137,12 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
