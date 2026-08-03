@@ -102,6 +102,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | [0049-group-anagrams](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0877-stone-game) |
 ## String
@@ -117,11 +118,13 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
