@@ -100,6 +100,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0088-merge-sorted-array) |
@@ -156,5 +157,6 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
