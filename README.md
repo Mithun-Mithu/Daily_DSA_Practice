@@ -89,6 +89,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0877-stone-game) |
@@ -105,6 +106,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | [0053-maximum-subarray](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -159,4 +161,5 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
