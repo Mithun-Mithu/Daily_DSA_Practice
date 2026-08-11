@@ -104,6 +104,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0169-majority-element) |
@@ -133,6 +134,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0217-contains-duplicate) |
@@ -165,6 +167,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0189-rotate-array) |
 ## Prefix Sum
@@ -179,4 +182,12 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
