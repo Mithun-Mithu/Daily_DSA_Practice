@@ -93,6 +93,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | [0268-missing-number](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0877-stone-game) |
+| [1390-four-divisors](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/1390-four-divisors) |
 ## Recursion
 |  |
 | ------- |
@@ -115,6 +116,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | [0268-missing-number](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0877-stone-game) |
+| [1390-four-divisors](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/1390-four-divisors) |
 ## String
 |  |
 | ------- |
@@ -192,4 +194,12 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0075-sort-colors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/1390-four-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
