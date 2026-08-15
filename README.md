@@ -101,6 +101,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0031-next-permutation) |
@@ -152,6 +153,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0169-majority-element) |
 ## Game Theory
@@ -161,6 +163,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
