@@ -98,6 +98,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0010-regular-expression-matching) |
 ## Array
 |  |
 | ------- |
@@ -121,6 +122,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0049-group-anagrams) |
 ## Trie
@@ -147,6 +149,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0877-stone-game) |
