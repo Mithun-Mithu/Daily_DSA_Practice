@@ -23,11 +23,12 @@ class Solution {
                 char pc = p.charAt(j - 1);
 
                 // Case 1: Current characters match
+                // '.' can match any character
                 if (pc == '.' || pc == sc) {
                     dp[i][j] = dp[i - 1][j - 1];
                 }
 
-                // Case 2: '*'
+                // Case 2: Current pattern character is '*'
                 else if (pc == '*') {
 
                     // '*' matches zero occurrences
