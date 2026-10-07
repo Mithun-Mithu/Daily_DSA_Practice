@@ -106,6 +106,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0031-next-permutation) |
@@ -179,6 +180,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0075-sort-colors) |
@@ -224,4 +226,8 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Mithun-Mithu/Daily_DSA_Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
